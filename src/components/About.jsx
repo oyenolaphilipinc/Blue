@@ -97,7 +97,7 @@ const About = () => {
                   Through our charitable initiatives, community events, and ongoing development, we strive to create a
                   more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
                 </p>
-                <button className="mt-4" variant="secondary">
+                <button className="mt-4 border px-4 py-2 rounded-md border-[#7cc6f3] bg-blue-500 text-white" variant="secondary">
                   Learn More
                 </button>
               </div>
