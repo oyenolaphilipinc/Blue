@@ -49,7 +49,7 @@ const About = () => {
               <div className="flex justify-center">
                 <img
                   alt="Blue Community"
-                  className="max-w-full h-auto"
+                  className="max-w-full h-auto hidden md:flex"
                   height={300}
                   src="/texos.gif"
                   style={{
@@ -104,7 +104,7 @@ const About = () => {
               <div className="flex justify-center">
                 <img
                   alt="Blue Mission"
-                  className="max-w-full h-auto"
+                  className="max-w-full h-auto hidden md:flex"
                   height={300}
                   src="/texos.gif"
                   style={{
