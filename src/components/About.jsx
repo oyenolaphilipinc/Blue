@@ -13,12 +13,12 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 md:gap-16">
               <div>
                 <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">About Blue</h1>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-gray-400 mb-6">
                   Blue is a decentralized memecoin that aims to bring joy and laughter to the crypto community. Launched
                   in 2022, Blue has quickly gained a loyal following of "Blue Believers" who believe in the power of
                   memes to unite and inspire.
                 </p>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-gray-400 mb-6">
                   Unlike many other memecoins, Blue has a strong focus on community engagement and charitable giving. A
                   portion of every transaction is automatically sent to the Blue Foundation, which uses the funds to
                   support various social and environmental initiatives around the world.
@@ -88,12 +88,12 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 md:gap-16">
               <div>
                 <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Our Mission</h2>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-gray-400 mb-6">
                   At the heart of Blue is a mission to spread joy, laughter, and positivity throughout the crypto
                   community and beyond. We believe that memes have the power to unite people, inspire creativity, and
                   make the world a little bit brighter.
                 </p>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-gray-400 mb-6">
                   Through our charitable initiatives, community events, and ongoing development, we strive to create a
                   more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
                 </p>
