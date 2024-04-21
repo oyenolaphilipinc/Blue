@@ -23,7 +23,7 @@ const About = () => {
                   portion of every transaction is automatically sent to the Blue Foundation, which uses the funds to
                   support various social and environmental initiatives around the world.
                 </p>
-                <button className="mt-4 border px-4 py-2 rounded-md border-[#7cc6f3] bg-blue-500 text-white" variant="primary">
+                <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="primary">
                   Buy Blue
                 </button>
               </div>
@@ -97,7 +97,7 @@ const About = () => {
                   Through our charitable initiatives, community events, and ongoing development, we strive to create a
                   more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
                 </p>
-                <button className="mt-4 border px-4 py-2 rounded-md border-[#7cc6f3] bg-blue-500 text-white" variant="secondary">
+                <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="secondary">
                   Learn More
                 </button>
               </div>
