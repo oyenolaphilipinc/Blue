@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <div>
-        <div className="flex md:justify-end md:mr-32 justify-center">
+        <div className="flex md:hidden justify-center">
         <img src={"/ton.png"} className=''/>
         </div>
         <h1 className="text-center text-5xl pt-12">About</h1>
@@ -38,7 +38,7 @@ const About = () => {
 
         <h1 className="text-center pt-16 text-5xl">JOIN THE COMMUNITY</h1>
         <div className="links flex justify-center pt-6">
-            <img src={"/X.png"} />
+            <img src={"/X.png"} className="w-32 h-auto"/>
             <img src={"/tele.png"} />
         </div>
     </div>
