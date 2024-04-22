@@ -42,7 +42,7 @@ const About = () => {
               <div className="flex justify-center">
                 <img
                   alt="Blue Community"
-                  className="max-w-full h-auto hidden md:flex"
+                  className="max-w-full h-auto"
                   height={300}
                   src="/IMG_20240422_103429_329.jpg"
                   style={{
@@ -66,40 +66,6 @@ const About = () => {
                     <span>Follow on Twitter</span>
                   </a>
                 </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section className="py-12 md:py-20 lg:py-28">
-          <div className="container mx-auto px-4 md:px-8">
-            <div className="grid md:grid-cols-2 gap-8 md:gap-16">
-              <div>
-                <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Our Mission</h2>
-                <p className="text-white dark:text-white mb-6">
-                  At the heart of Blue is a mission to spread joy, laughter, and positivity throughout the crypto
-                  community and beyond. We believe that memes have the power to unite people, inspire creativity, and
-                  make the world a little bit brighter.
-                </p>
-                <p className="text-white dark:text-white mb-6">
-                  Through our charitable initiatives, community events, and ongoing development, we strive to create a
-                  more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
-                </p>
-                <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="secondary">
-                  Learn More
-                </button>
-              </div>
-              <div className="flex justify-center">
-                <img
-                  alt="Blue Mission"
-                  className="max-w-full h-auto hidden md:flex"
-                  height={300}
-                  src="/texos.gif"
-                  style={{
-                    aspectRatio: "400/300",
-                    objectFit: "cover",
-                  }}
-                  width={300}
-                />
               </div>
             </div>
           </div>
