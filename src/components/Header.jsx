@@ -7,7 +7,7 @@ const Header = () => {
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-blue-500">
-                  Unleash the Power of BlueCoin
+                  BLUE cake to celebrate 100M users on telegram
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-700 md:text-xl dark:text-gray-400">
                   $Blue is a decentralized cryptocurrency that harnesses the power of memes to revolutionize the
