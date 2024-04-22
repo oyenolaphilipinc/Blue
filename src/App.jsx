@@ -5,7 +5,7 @@ import About from './components/About'
 
 const App = () => {
   return (
-    <div className="bg-[#7cc6f3]">
+    <div className="bg-[#0088cc]">
       <Navbar />
       <Header />
       <About />

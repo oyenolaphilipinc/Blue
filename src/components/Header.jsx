@@ -2,14 +2,14 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <section className="w-full py-12 md:py-24 md:ml-24 bg-[#7cc6f3]">
+    <section className="w-full py-12 md:py-24 md:ml-16 bg-[#0088cc]">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-blue-500">
-                  BLUE cake to celebrate 100M users on telegram
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-black">
+                  BLUE to celebrate 100M users on telegram
                 </h1>
-                <p className="mx-auto max-w-[700px] text-gray-700 md:text-xl dark:text-gray-400">
+                <p className="mx-auto max-w-[700px] text-white md:text-xl dark:text-white">
                   $Blue is a decentralized cryptocurrency that harnesses the power of memes to revolutionize the
                   world of finance.
                 </p>

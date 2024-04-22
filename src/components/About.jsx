@@ -13,17 +13,17 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 md:gap-16">
               <div>
                 <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">About Blue</h1>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-white mb-6">
                   Blue is a decentralized memecoin that aims to bring joy and laughter to the crypto community. Launched
                   in 2022, Blue has quickly gained a loyal following of "Blue Believers" who believe in the power of
                   memes to unite and inspire.
                 </p>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-white mb-6">
                   Unlike many other memecoins, Blue has a strong focus on community engagement and charitable giving. A
                   portion of every transaction is automatically sent to the Blue Foundation, which uses the funds to
                   support various social and environmental initiatives around the world.
                 </p>
-                <button className="mt-4 border px-4 py-2 rounded-md border-[#7cc6f3] bg-blue-500 text-white" variant="primary">
+                <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="primary">
                   Buy Blue
                 </button>
               </div>
@@ -43,7 +43,7 @@ const About = () => {
             </div>
           </div>
         </section>
-        <section className="bg-gray-100 dark:bg-gray-800 py-12 md:py-20 lg:py-28">
+        <section className="bg-gray-100 dark:bg-gray-100 py-12 md:py-20 lg:py-28">
           <div className="container mx-auto px-4 md:px-8">
             <div className="grid md:grid-cols-2 gap-8 md:gap-16">
               <div className="flex justify-center">
@@ -61,11 +61,11 @@ const About = () => {
               </div>
               <div>
                 <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Join the Blue Community</h2>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-gray-600 dark:text-gray-600 mb-6">
                   Blue is more than just a cryptocurrency - it's a vibrant community of "Blue Believers" who share a
                   passion for memes, laughter, and making the world a better place.
                 </p>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-gray-600 dark:text-gray-600 mb-6">
                   Join our Discord server, follow us on social media, and participate in our community events to connect
                   with other Blue enthusiasts and stay up-to-date on the latest developments.
                 </p>
@@ -88,16 +88,16 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 md:gap-16">
               <div>
                 <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Our Mission</h2>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-white mb-6">
                   At the heart of Blue is a mission to spread joy, laughter, and positivity throughout the crypto
                   community and beyond. We believe that memes have the power to unite people, inspire creativity, and
                   make the world a little bit brighter.
                 </p>
-                <p className="text-gray-600 dark:text-gray-400 mb-6">
+                <p className="text-white dark:text-white mb-6">
                   Through our charitable initiatives, community events, and ongoing development, we strive to create a
                   more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
                 </p>
-                <button className="mt-4 border px-4 py-2 rounded-md border-[#7cc6f3] bg-blue-500 text-white" variant="secondary">
+                <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="secondary">
                   Learn More
                 </button>
               </div>
