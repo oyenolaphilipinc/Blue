@@ -74,15 +74,9 @@ const About = () => {
         <div className="container mx-auto px-4 md:px-8">
           <div className="grid md:grid-cols-2 gap-8 md:gap-16">
             <div>
-              <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Blue Cake</h2>
+              <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Blue Celebrate 100M active users</h2>
               <p className="text-black dark:text-black mb-6">
-                Having had 1bn supply, $BLUE aims to make finance easier with their token and give access to financial services easily
-                community and beyond. We believe that memes have the power to unite people, inspire creativity, and
-                make the world a little bit brighter.
-              </p>
-              <p className="text-black dark:text-black mb-6">
-                Through our charitable initiatives, community events, and ongoing development, we strive to create a
-                more inclusive, sustainable, and fun-filled crypto ecosystem that everyone can enjoy.
+                With 1bn supply, Blue celebrates 100M active users on telegram. 
               </p>
               <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="secondary">
                 Learn More
