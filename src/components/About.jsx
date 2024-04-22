@@ -42,7 +42,7 @@ const About = () => {
               <div className="flex justify-center">
                 <img
                   alt="Blue Community"
-                  className="max-w-full h-auto"
+                  className="max-w-full h-auto rounded-md"
                   height={300}
                   src="/IMG_20240422_103429_329.jpg"
                   style={{
