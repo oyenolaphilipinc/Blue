@@ -44,12 +44,11 @@ const About = () => {
                   alt="Blue Community"
                   className="max-w-full h-auto hidden md:flex"
                   height={300}
-                  src="/texos.gif"
+                  src="/IMG_20240422_103429_329.jpg"
                   style={{
-                    aspectRatio: "400/300",
                     objectFit: "cover",
                   }}
-                  width={300}
+                  width={450}
                 />
               </div>
               <div>
