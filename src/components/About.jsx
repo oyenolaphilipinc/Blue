@@ -14,14 +14,7 @@ const About = () => {
               <div>
                 <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">About Blue</h1>
                 <p className="text-white dark:text-white mb-6">
-                  Blue is a decentralized memecoin that aims to bring joy and laughter to the crypto community. Launched
-                  in 2022, Blue has quickly gained a loyal following of "Blue Believers" who believe in the power of
-                  memes to unite and inspire.
-                </p>
-                <p className="text-white dark:text-white mb-6">
-                  Unlike many other memecoins, Blue has a strong focus on community engagement and charitable giving. A
-                  portion of every transaction is automatically sent to the Blue Foundation, which uses the funds to
-                  support various social and environmental initiatives around the world.
+                  Blue is the color of tg and ton. 
                 </p>
                 <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="primary">
                   Buy Blue
@@ -60,19 +53,14 @@ const About = () => {
                 />
               </div>
               <div>
-                <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Join the Blue Community</h2>
+                <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Blue is the color of tg and ton</h2>
                 <p className="text-gray-600 dark:text-gray-600 mb-6">
-                  Blue is more than just a cryptocurrency - it's a vibrant community of "Blue Believers" who share a
-                  passion for memes, laughter, and making the world a better place.
-                </p>
-                <p className="text-gray-600 dark:text-gray-600 mb-6">
-                  Join our Discord server, follow us on social media, and participate in our community events to connect
-                  with other Blue enthusiasts and stay up-to-date on the latest developments.
+                  Blue is the color of telegram and ton
                 </p>
                 <div className="flex gap-4">
                   <a className="flex items-center gap-2" href="#">
                     <DiscIcon className="h-6 w-6" />
-                    <span>Join Discord</span>
+                    <span>Join Telegram</span>
                   </a>
                   <a className="flex items-center gap-2" href="#">
                     <TwitterIcon className="h-6 w-6" />
