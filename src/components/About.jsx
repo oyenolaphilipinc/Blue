@@ -74,9 +74,9 @@ const About = () => {
         <div className="container mx-auto px-4 md:px-8">
           <div className="grid md:grid-cols-2 gap-8 md:gap-16">
             <div>
-              <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Blue Celebrate 100M active users</h2>
+              <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">Telegram Celebrate 100M active users</h2>
               <p className="text-black dark:text-black mb-6">
-                With 1bn supply, Blue celebrates 100M active users on telegram. 
+              Telegram has hit a milestone of 100 million active users! In honor of Pavel Durov, Telegram&apos;s founder, who loves the color blue, let's celebrate with a blue-themed meme. After all, blue isn't just the signature color of Telegram, it’s also the essence of TON. Let the $blue meme fest begin!
               </p>
               <button className="mt-4 border px-4 py-2 rounded-md border-[#0088cc] bg-blue-500 text-white" variant="secondary">
                 Learn More
